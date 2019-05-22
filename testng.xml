@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="browser" value="ch"></parameter>
+	<test name="Myaccess">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.MyAccess_Script" />
+		</classes>
+	</test>
+	
+	 <test name="MakeaRequest">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.MakeARequest_Script" />
+		</classes>
+	</test>
+
+	<test name="Profile">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Profile_Script" />
+		</classes>
+	</test> 
+
+	 <test name="Approvals">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Approvals_Script" />
+		</classes>
+	</test> 
+	
+	<test name="ApprovalsBtnCheck">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.ApprovalsBtnCheck_Script" />
+		</classes>
+	</test>
+	  <test name="Authentication">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.AuthenticationType_Script" />
+		</classes>
+	</test>
+
+	 <test name="ReviewAccess">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.ReviewAccess_Script" />
+		</classes>
+	</test>  
+
+	<test name="Myactivity">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.MyActivity_Script" />
+		</classes>
+	</test> 
+	
+	 <test name="Dashboard">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Dashboard_Script"/>
+		</classes>
+	</test>
+</suite> <!-- Suite -->

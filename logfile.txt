@@ -1,0 +1,11 @@
+2019-04-30 09:57:34 INFO  Basefunctions:60 - Open the Browser
+2019-04-30 09:57:36 INFO  Basefunctions:68 - Enter the URL
+2019-04-30 09:57:38 INFO  Login_Script:24 - this is login information
+2019-04-30 09:57:38 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-30 09:57:38 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-30 09:57:48 INFO  Login_Script:32 - Logged in successfully
+2019-04-30 09:57:48 INFO  MyAccess_Script:15 - --My Access--
+2019-04-30 09:57:52 INFO  pf_MyAccessPage:57 - My access page is displayed
+2019-04-30 09:58:04 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-04-30 09:58:05 INFO  pf_MyAccessPage:99 - My access page is displayed
+2019-04-30 09:58:08 INFO  pf_MyAccessPage:102 - My access Gridview is clicked 

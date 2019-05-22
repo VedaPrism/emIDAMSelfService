@@ -1,0 +1,95 @@
+2019-04-29 11:15:04 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:15:04 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:15:06 INFO  Login_Script:24 - this is login information
+2019-04-29 11:15:06 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-04-29 11:15:06 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-04-29 11:15:16 INFO  MyAccess_Script:15 - --My Access--
+2019-04-29 11:15:26 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-04-29 11:15:39 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:15:39 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:15:40 INFO  Login_Script:24 - this is login information
+2019-04-29 11:15:40 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-04-29 11:15:40 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-04-29 11:15:50 INFO  pf_DashboardPage:80 - --Dashboard Details--
+2019-04-29 11:17:03 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:17:04 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:17:05 INFO  Login_Script:24 - this is login information
+2019-04-29 11:17:05 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:17:05 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:17:16 INFO  MyAccess_Script:15 - --My Access--
+2019-04-29 11:17:26 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-04-29 11:18:08 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:18:09 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:18:10 INFO  Login_Script:24 - this is login information
+2019-04-29 11:18:10 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:18:10 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:18:17 INFO  MyAccess_Script:15 - --My Access--
+2019-04-29 11:18:17 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-04-29 11:18:47 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:18:47 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:18:49 INFO  Login_Script:24 - this is login information
+2019-04-29 11:18:49 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:18:49 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:19:01 INFO  MyAccess_Script:15 - --My Access--
+2019-04-29 11:19:09 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-04-29 11:19:17 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:19:18 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:19:19 INFO  Login_Script:24 - this is login information
+2019-04-29 11:19:19 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:19:19 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:19:26 INFO  pf_DashboardPage:80 - --Dashboard Details--
+2019-04-29 11:28:54 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:28:54 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:28:56 INFO  Login_Script:24 - this is login information
+2019-04-29 11:28:56 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:28:56 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:29:08 INFO  MyAccess_Script:15 - --My Access--
+2019-04-29 11:29:18 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-04-29 11:29:31 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:29:31 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:29:33 INFO  Login_Script:24 - this is login information
+2019-04-29 11:29:33 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:29:33 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:29:45 INFO  pf_DashboardPage:80 - --Dashboard Details--
+2019-04-29 11:33:02 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:33:03 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:33:04 INFO  Login_Script:24 - this is login information
+2019-04-29 11:33:04 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:33:04 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:33:17 INFO  MyAccess_Script:15 - --My Access--
+2019-04-29 11:35:49 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:35:49 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:35:51 INFO  Login_Script:24 - this is login information
+2019-04-29 11:35:51 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:35:51 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:36:00 INFO  Login_Script:32 - Logged in successfully
+2019-04-29 11:36:00 INFO  MyAccess_Script:15 - --My Access--
+2019-04-29 11:36:01 INFO  pf_MyAccessPage:57 - My access page is displayed
+2019-04-29 11:36:07 INFO  pf_MyAccessPage:77 - My access Application opened
+2019-04-29 11:36:20 INFO  pf_MyAccessPage:84 - My access Application closed 
+2019-04-29 11:36:23 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-04-29 11:36:25 INFO  pf_MyAccessPage:99 - My access page is displayed
+2019-04-29 11:36:28 INFO  pf_MyAccessPage:102 - My access Gridview is clicked 
+2019-04-29 11:47:23 INFO  Basefunctions:60 - Open the Browser
+2019-04-29 11:47:23 INFO  Basefunctions:68 - Enter the URL
+2019-04-29 11:47:25 INFO  Login_Script:24 - this is login information
+2019-04-29 11:47:25 INFO  Login_Script:29 - Username picked from Excel is sindhusk
+2019-04-29 11:47:25 INFO  Login_Script:30 - Username picked from Excel is emudhra2
+2019-04-29 11:47:34 INFO  Login_Script:32 - Logged in successfully
+2019-04-29 11:47:34 INFO  MakeARequest_Script:46 - this is login information
+2019-04-29 11:47:35 INFO  pf_makeaRequestPage:124 - --Make a Request page is displayed--
+2019-04-29 11:47:35 INFO  pf_makeaRequestPage:129 - Request is for Myself
+2019-04-29 11:47:35 INFO  pf_makeaRequestPage:136 - Request Type is Group
+2019-04-29 11:47:38 INFO  pf_makeaRequestPage:150 - Make a request for Myself,Request Type Group is submitted
+2019-04-29 11:47:39 INFO  Utility:82 - Actual and expected result matches
+2019-04-29 11:47:42 INFO  MakeARequest_Script:46 - this is login information
+2019-04-29 11:47:43 INFO  pf_makeaRequestPage:179 - Request is for Myself
+2019-04-29 11:47:43 INFO  pf_makeaRequestPage:186 - Request Type is Resource
+2019-04-29 11:47:57 INFO  pf_makeaRequestPage:244 - Action is to read
+2019-04-29 11:47:57 INFO  pf_makeaRequestPage:256 - Access Type is No time Limit
+2019-04-29 11:48:07 INFO  MakeARequest_Script:46 - this is login information
+2019-04-29 11:48:08 INFO  pf_makeaRequestPage:395 - Request for Others
+2019-04-29 11:48:18 INFO  MakeARequest_Script:46 - this is login information
+2019-04-29 11:48:22 INFO  pf_makeaRequestPage:445 - Request for Others
+2019-04-29 11:48:25 INFO  pf_makeaRequestPage:455 - Request Type is Resource
+2019-04-29 11:48:36 INFO  pf_makeaRequestPage:518 - Access Type is No time limit

@@ -1,0 +1,166 @@
+2019-02-01 09:22:15 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:22:15 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:22:17 INFO  Login_Script:24 - this is login information
+2019-02-01 09:22:17 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:22:17 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:22:25 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:22:25 INFO  MyAccess_Script:15 - --My Access--
+2019-02-01 09:22:25 INFO  pf_MyAccessPage:57 - My access page is displayed
+2019-02-01 09:22:31 INFO  pf_MyAccessPage:77 - My access Application opened
+2019-02-01 09:22:44 INFO  pf_MyAccessPage:84 - My access Application closed 
+2019-02-01 09:22:46 INFO  MyAccess_Script:23 - --My Access Grid--
+2019-02-01 09:22:47 INFO  pf_MyAccessPage:99 - My access page is displayed
+2019-02-01 09:22:50 INFO  pf_MyAccessPage:102 - My access Gridview is clicked 
+2019-02-01 09:23:07 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:23:07 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:23:09 INFO  Login_Script:24 - this is login information
+2019-02-01 09:23:09 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:23:09 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:23:17 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:23:17 INFO  MakeARequest_Script:46 - this is login information
+2019-02-01 09:23:17 INFO  pf_makeaRequestPage:124 - --Make a Request page is displayed--
+2019-02-01 09:23:17 INFO  pf_makeaRequestPage:129 - Request is for Myself
+2019-02-01 09:23:17 INFO  pf_makeaRequestPage:136 - Request Type is Group
+2019-02-01 09:23:20 INFO  pf_makeaRequestPage:150 - Make a request for Myself,Request Type Group is submitted
+2019-02-01 09:23:31 INFO  pf_makeaRequestPage:162 - Make a request for Myself,Request Type Group is already Exist
+2019-02-01 09:23:34 INFO  MakeARequest_Script:46 - this is login information
+2019-02-01 09:23:34 INFO  pf_makeaRequestPage:179 - Request is for Myself
+2019-02-01 09:23:34 INFO  pf_makeaRequestPage:186 - Request Type is Resource
+2019-02-01 09:23:48 INFO  pf_makeaRequestPage:244 - Action is to read
+2019-02-01 09:23:48 INFO  pf_makeaRequestPage:256 - Access Type is No time Limit
+2019-02-01 09:23:57 INFO  pf_makeaRequestPage:356 - Make a request for Myself,Request Type Resource is submitted
+2019-02-01 09:24:00 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:24:00 INFO  MakeARequest_Script:46 - this is login information
+2019-02-01 09:24:00 INFO  pf_makeaRequestPage:395 - Request for Others
+2019-02-01 09:24:01 INFO  pf_makeaRequestPage:408 - Request Type is group
+2019-02-01 09:24:04 INFO  pf_makeaRequestPage:417 - Make a request for others,Request Type Group is submitted
+2019-02-01 09:24:14 INFO  pf_makeaRequestPage:429 - Make a request for Others,Request Type Group is already Exist
+2019-02-01 09:24:17 INFO  MakeARequest_Script:46 - this is login information
+2019-02-01 09:24:20 INFO  pf_makeaRequestPage:445 - Request for Others
+2019-02-01 09:24:23 INFO  pf_makeaRequestPage:455 - Request Type is Resource
+2019-02-01 09:24:34 INFO  pf_makeaRequestPage:518 - Access Type is No time limit
+2019-02-01 09:24:40 INFO  pf_makeaRequestPage:550 - Make a request for others,Request Type Resource is submitted
+2019-02-01 09:24:44 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:24:46 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:24:47 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:24:48 INFO  Login_Script:24 - this is login information
+2019-02-01 09:24:48 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:24:48 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:24:55 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:24:56 INFO  pf_profilePage:97 - --Profile page is displayed
+2019-02-01 09:25:00 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:25:00 INFO  pf_profilePage:125 - --Profile page Cancel button check
+2019-02-01 09:25:03 INFO  pf_profilePage:132 - Cancel button is clicked
+2019-02-01 09:25:06 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:25:06 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:25:07 INFO  Login_Script:24 - this is login information
+2019-02-01 09:25:07 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:25:07 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:25:15 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:25:16 INFO  pf_ApprovalsPage:165 - Approvals page is displayed
+2019-02-01 09:25:19 INFO  pf_ApprovalsPage:168 - Pending status request is exported to excel
+2019-02-01 09:25:19 INFO  pf_ApprovalsPage:179 - Selected request ID is:344
+2019-02-01 09:25:19 INFO  pf_ApprovalsPage:182 - Selected request Type is:Access Request
+2019-02-01 09:25:24 INFO  pf_ApprovalsPage:632 - Request type is: Access Request
+2019-02-01 09:25:30 INFO  pf_ApprovalsPage:638 - Approve button present inside view button is clicked
+2019-02-01 09:25:33 INFO  pf_ApprovalsPage:643 - Yes button is clicked
+2019-02-01 09:25:40 INFO  pf_ApprovalsPage:738 - Approve status page
+2019-02-01 09:25:40 INFO  pf_ApprovalsPage:740 - Search button in Approve tab is clicked
+2019-02-01 09:25:56 INFO  pf_ApprovalsPage:764 - Delegate status request is exported to excel
+2019-02-01 09:25:59 INFO  pf_ApprovalsPage:767 - Search button in Delegate tab is clicked
+2019-02-01 09:26:07 INFO  pf_ApprovalsPage:783 - Reject status request is exported to excel
+2019-02-01 09:26:11 INFO  pf_ApprovalsPage:787 - Search button in Reject tab is clicked
+2019-02-01 09:26:18 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:26:18 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:26:19 INFO  Login_Script:24 - this is login information
+2019-02-01 09:26:19 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:26:19 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:26:27 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:26:28 INFO  pf_ApprovalsPage:810 - Approvals page is displayed
+2019-02-01 09:26:33 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:26:34 INFO  pf_ApprovalsPage:842 - Approvals page is displayed
+2019-02-01 09:26:38 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:26:40 INFO  pf_ApprovalsPage:863 - Approvals page is displayed
+2019-02-01 09:26:44 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:26:46 INFO  pf_ApprovalsPage:884 - Approvals page is displayed
+2019-02-01 09:26:46 INFO  pf_ApprovalsPage:896 - Selected request ID is:343
+2019-02-01 09:26:46 INFO  pf_ApprovalsPage:899 - Selected request Type is:Access Request
+2019-02-01 09:26:51 INFO  pf_ApprovalsPage:907 - Yes button is clicked
+2019-02-01 09:26:57 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:26:59 INFO  pf_ApprovalsPage:926 - Approvals page is displayed
+2019-02-01 09:26:59 INFO  pf_ApprovalsPage:938 - Selected request ID is:336
+2019-02-01 09:26:59 INFO  pf_ApprovalsPage:941 - Selected request Type is:Access Request
+2019-02-01 09:27:17 INFO  pf_ApprovalsPage:980 - Approvals page is displayed
+2019-02-01 09:27:29 INFO  pf_ApprovalsPage:1021 - Approvals page is displayed
+2019-02-01 09:27:41 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:27:41 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:27:43 INFO  Login_Script:24 - this is login information
+2019-02-01 09:27:43 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:27:43 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:27:50 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:27:54 INFO  pf_AuthenticationPage:250 - Edit DSC button is clicked
+2019-02-01 09:28:17 INFO  pf_AuthenticationPage:294 - Edit FIDO button is clicked
+2019-02-01 09:28:29 INFO  pf_AuthenticationPage:320 - Edit Fingerprint button is clicked
+2019-02-01 09:28:50 INFO  pf_AuthenticationPage:358 - Edit Face recgntn button is clicked
+2019-02-01 09:28:57 INFO  pf_AuthenticationPage:381 - Edit KBA button is clicked
+2019-02-01 09:29:12 INFO  pf_AuthenticationPage:418 - Submit KBA button is clicked
+2019-02-01 09:29:12 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:29:17 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:29:17 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:29:18 INFO  Login_Script:24 - this is login information
+2019-02-01 09:29:18 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:29:18 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:29:26 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:29:27 INFO  pf_ReviewAccessPage:315 - Review Access page is Displayed
+2019-02-01 09:29:43 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:29:44 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:29:45 INFO  Login_Script:24 - this is login information
+2019-02-01 09:29:45 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:29:45 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:29:52 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:29:53 INFO  pf_myActivityPage:43 - --My Activity page is displayed--
+2019-02-01 09:29:54 INFO  pf_myActivityPage:45 - --Exported My Activity to Excel--
+2019-02-01 09:30:05 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 09:30:06 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 09:30:07 INFO  Login_Script:24 - this is login information
+2019-02-01 09:30:07 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 09:30:07 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 09:30:15 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 09:30:15 INFO  pf_DashboardPage:80 - --Dashboard Details--
+2019-02-01 09:30:15 INFO  pf_DashboardPage:85 - Pending/Rejected/Approved/Cancel count: 1/11/39/121
+2019-02-01 09:30:15 INFO  pf_DashboardPage:90 - Pending status page is displayed
+2019-02-01 09:30:19 INFO  Utility:82 - Actual and expected result matches
+2019-02-01 09:30:19 INFO  pf_DashboardPage:114 - Yes button is clicked
+2019-02-01 09:30:22 INFO  pf_DashboardPage:120 - Alert window is closed
+2019-02-01 09:30:26 INFO  pf_DashboardPage:151 - Rejected status page is displayed
+2019-02-01 09:30:34 INFO  pf_DashboardPage:223 - Search Button is clicked
+2019-02-01 09:30:43 INFO  pf_DashboardPage:242 - Clear Button is clicked
+2019-02-01 09:30:48 INFO  pf_DashboardPage:261 - Approved status page is displayed
+2019-02-01 09:30:58 INFO  pf_DashboardPage:330 - Search Button is clicked
+2019-02-01 09:31:07 INFO  pf_DashboardPage:350 - Clear Button is clicked
+2019-02-01 09:31:12 INFO  pf_DashboardPage:370 - Cancel status page is displayed
+2019-02-01 09:31:22 INFO  pf_DashboardPage:436 - Search Button is clicked
+2019-02-01 09:31:32 INFO  pf_DashboardPage:457 - Clear Button is clicked
+2019-02-01 14:42:57 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 14:42:57 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 14:42:59 INFO  Login_Script:24 - this is login information
+2019-02-01 14:42:59 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 14:42:59 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 14:43:06 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 14:43:07 INFO  pf_ReviewAccessPage:315 - Review Access page is Displayed
+2019-02-01 14:48:34 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 14:48:35 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 14:48:36 INFO  Login_Script:24 - this is login information
+2019-02-01 14:48:36 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 14:48:36 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 14:48:44 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 14:48:45 INFO  pf_ReviewAccessPage:315 - Review Access page is Displayed
+2019-02-01 14:49:08 INFO  pf_ReviewAccessPage:366 - Review Access page is Displayed
+2019-02-01 14:50:22 INFO  Basefunctions:60 - Open the Browser
+2019-02-01 14:50:22 INFO  Basefunctions:68 - Enter the URL
+2019-02-01 14:50:24 INFO  Login_Script:24 - this is login information
+2019-02-01 14:50:24 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-02-01 14:50:24 INFO  Login_Script:30 - Username picked from Excel is emudhra@3
+2019-02-01 14:50:31 INFO  Login_Script:32 - Logged in successfully
+2019-02-01 14:50:32 INFO  pf_ReviewAccessPage:315 - Review Access page is Displayed
+2019-02-01 14:50:56 INFO  pf_ReviewAccessPage:366 - Review Access page is Displayed

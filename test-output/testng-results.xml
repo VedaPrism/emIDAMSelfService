@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="3" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51948" started-at="2019-04-30T04:27:31Z" finished-at="2019-04-30T04:28:23Z">
+    <groups>
+      <group name="SMK">
+        <method signature="Login_Script.Login(java.util.Map)[pri:1, instance:Scripts.Login_Script@133e16fd]" name="Login" class="Scripts.Login_Script"/>
+        <method signature="MyAccess_Script.myAccess()[pri:1, instance:Scripts.MyAccess_Script@51b279c9]" name="myAccess" class="Scripts.MyAccess_Script"/>
+        <method signature="MyAccess_Script.myAccessGrid()[pri:2, instance:Scripts.MyAccess_Script@51b279c9]" name="myAccessGrid" class="Scripts.MyAccess_Script"/>
+      </group> <!-- SMK -->
+      <group name="REG">
+        <method signature="Login_Script.Login(java.util.Map)[pri:1, instance:Scripts.Login_Script@133e16fd]" name="Login" class="Scripts.Login_Script"/>
+        <method signature="MyAccess_Script.myAccess()[pri:1, instance:Scripts.MyAccess_Script@51b279c9]" name="myAccess" class="Scripts.MyAccess_Script"/>
+        <method signature="MyAccess_Script.myAccessGrid()[pri:2, instance:Scripts.MyAccess_Script@51b279c9]" name="myAccessGrid" class="Scripts.MyAccess_Script"/>
+      </group> <!-- REG -->
+    </groups>
+    <test name="Myaccess" duration-ms="51948" started-at="2019-04-30T04:27:31Z" finished-at="2019-04-30T04:28:23Z">
+      <class name="Scripts.MyAccess_Script">
+        <test-method status="FAIL" signature="myAccess()[pri:1, instance:Scripts.MyAccess_Script@51b279c9]" name="myAccess" duration-ms="15934" started-at="2019-04-30T04:27:48Z" finished-at="2019-04-30T04:28:04Z">
+          <exception class="java.lang.IllegalArgumentException">
+            <message>
+              <![CDATA[bound must be positive]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalArgumentException: bound must be positive
+at java.util.Random.nextInt(Unknown Source)
+at Page_Factory.pf_MyAccessPage.myaccess(pf_MyAccessPage.java:64)
+at Scripts.MyAccess_Script.myAccess(MyAccess_Script.java:18)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalArgumentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccess -->
+        <test-method status="PASS" signature="report(org.testng.ITestResult)[pri:0, instance:Scripts.MyAccess_Script@51b279c9]" name="report" is-config="true" duration-ms="1" started-at="2019-04-30T04:28:04Z" finished-at="2019-04-30T04:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=myAccess status=FAILURE method=MyAccess_Script.myAccess()[pri:1, instance:Scripts.MyAccess_Script@51b279c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="myAccessGrid()[pri:2, instance:Scripts.MyAccess_Script@51b279c9]" name="myAccessGrid" duration-ms="18983" started-at="2019-04-30T04:28:04Z" finished-at="2019-04-30T04:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccessGrid -->
+        <test-method status="PASS" signature="report(org.testng.ITestResult)[pri:0, instance:Scripts.MyAccess_Script@51b279c9]" name="report" is-config="true" duration-ms="1" started-at="2019-04-30T04:28:23Z" finished-at="2019-04-30T04:28:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=myAccessGrid status=SUCCESS method=MyAccess_Script.myAccessGrid()[pri:2, instance:Scripts.MyAccess_Script@51b279c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- Scripts.MyAccess_Script -->
+      <class name="Scripts.Login_Script">
+        <test-method status="PASS" signature="createreport()[pri:0, instance:Scripts.Login_Script@133e16fd]" name="createreport" is-config="true" duration-ms="104" started-at="2019-04-30T04:27:31Z" finished-at="2019-04-30T04:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createreport -->
+        <test-method status="PASS" signature="launch(java.lang.String)[pri:0, instance:Scripts.Login_Script@133e16fd]" name="launch" is-config="true" duration-ms="6130" started-at="2019-04-30T04:27:31Z" finished-at="2019-04-30T04:27:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="Login(java.util.Map)[pri:1, instance:Scripts.Login_Script@133e16fd]" name="Login" duration-ms="9963" started-at="2019-04-30T04:27:38Z" data-provider="valid_login" finished-at="2019-04-30T04:27:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=1, Execute_Flag=Y, Uname=sindhusk, Script_Name=ValidLogin, TC_ID=t001, Expected_Result=Valid credentials, Pwd=emudhra2, Actual Result=null}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="report(org.testng.ITestResult)[pri:0, instance:Scripts.Login_Script@133e16fd]" name="report" is-config="true" duration-ms="3" started-at="2019-04-30T04:27:48Z" finished-at="2019-04-30T04:27:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=Login_Script.Login(java.util.Map)[pri:1, instance:Scripts.Login_Script@133e16fd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:Scripts.Login_Script@133e16fd]" name="closeapp" is-config="true" duration-ms="296" started-at="2019-04-30T04:28:23Z" finished-at="2019-04-30T04:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Scripts.Login_Script -->
+    </test> <!-- Myaccess -->
+  </suite> <!-- Suite -->
+</testng-results>

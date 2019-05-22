@@ -1,0 +1,162 @@
+2019-01-28 09:47:48 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 09:47:49 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 09:47:50 INFO  Login_Script:24 - this is login information
+2019-01-28 09:47:50 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 09:47:50 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 09:47:59 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 09:47:59 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 09:47:59 INFO  pf_makeaRequestPage:122 - --Make a Request page is displayed--
+2019-01-28 09:47:59 INFO  pf_makeaRequestPage:127 - Request is for Myself
+2019-01-28 09:47:59 INFO  pf_makeaRequestPage:134 - Request Type is Group
+2019-01-28 09:48:03 INFO  pf_makeaRequestPage:147 - Make a request for Myself,Request Type Group is submitted
+2019-01-28 09:48:03 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 09:48:06 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 09:48:06 INFO  pf_makeaRequestPage:171 - Request is for Myself
+2019-01-28 09:48:07 INFO  pf_makeaRequestPage:178 - Request Type is Resource
+2019-01-28 09:48:18 INFO  pf_makeaRequestPage:235 - Action is to read
+2019-01-28 09:48:18 INFO  pf_makeaRequestPage:247 - Access Type is No time Limit
+2019-01-28 09:48:26 INFO  pf_makeaRequestPage:347 - Make a request for Myself,Request Type Resource is submitted
+2019-01-28 09:48:26 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 09:48:29 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 09:48:30 INFO  pf_makeaRequestPage:373 - Request for Others
+2019-01-28 09:48:30 INFO  pf_makeaRequestPage:386 - Request Type is group
+2019-01-28 09:48:33 INFO  pf_makeaRequestPage:395 - Make a request for others,Request Type Group is submitted
+2019-01-28 09:48:37 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 09:48:39 INFO  pf_makeaRequestPage:413 - Request for Others
+2019-01-28 09:48:39 INFO  pf_makeaRequestPage:422 - Request Type is Resource
+2019-01-28 09:48:50 INFO  pf_makeaRequestPage:485 - Access Type is No time limit
+2019-01-28 09:48:57 INFO  pf_makeaRequestPage:517 - Make a request for others,Request Type Resource is submitted
+2019-01-28 09:48:57 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 12:28:35 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 12:28:36 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 12:28:38 INFO  Login_Script:24 - this is login information
+2019-01-28 12:28:38 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 12:28:38 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 12:28:45 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 12:28:46 INFO  pf_ReviewAccessPage:55 - Review Access page is Displayed
+2019-01-28 12:28:50 INFO  pf_ReviewAccessPage:66 - Approve button in Actions is clicked
+2019-01-28 12:28:53 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 12:28:55 INFO  pf_ReviewAccessPage:77 - Review Access- Reject status page
+2019-01-28 12:29:06 INFO  pf_ReviewAccessPage:97 - Review Access- Approve status page
+2019-01-28 12:29:12 INFO  pf_ReviewAccessPage:115 - Review Access- Expired status page
+2019-01-28 14:34:19 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 14:34:20 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 14:34:21 INFO  Login_Script:24 - this is login information
+2019-01-28 14:34:21 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 14:34:21 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 14:34:29 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 14:34:29 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 14:34:30 INFO  pf_makeaRequestPage:122 - --Make a Request page is displayed--
+2019-01-28 14:34:30 INFO  pf_makeaRequestPage:127 - Request is for Myself
+2019-01-28 14:34:30 INFO  pf_makeaRequestPage:134 - Request Type is Group
+2019-01-28 14:34:33 INFO  pf_makeaRequestPage:147 - Make a request for Myself,Request Type Group is submitted
+2019-01-28 14:34:33 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 14:34:37 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 14:34:37 INFO  pf_makeaRequestPage:171 - Request is for Myself
+2019-01-28 14:34:37 INFO  pf_makeaRequestPage:178 - Request Type is Resource
+2019-01-28 14:34:48 INFO  pf_makeaRequestPage:235 - Action is to read
+2019-01-28 14:34:49 INFO  pf_makeaRequestPage:247 - Access Type is No time Limit
+2019-01-28 14:34:57 INFO  pf_makeaRequestPage:347 - Make a request for Myself,Request Type Resource is submitted
+2019-01-28 14:34:57 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 14:35:00 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 14:35:01 INFO  pf_makeaRequestPage:373 - Request for Others
+2019-01-28 14:35:01 INFO  pf_makeaRequestPage:386 - Request Type is group
+2019-01-28 14:35:04 INFO  pf_makeaRequestPage:395 - Make a request for others,Request Type Group is submitted
+2019-01-28 14:35:07 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 14:35:07 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 14:35:09 INFO  pf_makeaRequestPage:413 - Request for Others
+2019-01-28 14:35:10 INFO  pf_makeaRequestPage:422 - Request Type is Resource
+2019-01-28 14:35:21 INFO  pf_makeaRequestPage:485 - Access Type is No time limit
+2019-01-28 14:35:27 INFO  pf_makeaRequestPage:517 - Make a request for others,Request Type Resource is submitted
+2019-01-28 14:35:27 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 14:41:30 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 14:41:30 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 14:41:32 INFO  Login_Script:24 - this is login information
+2019-01-28 14:41:32 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 14:41:32 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 14:41:39 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 14:41:39 INFO  MyAccess_Script:15 - --My Access--
+2019-01-28 14:41:40 INFO  pf_MyAccessPage:55 - My access page is displayed
+2019-01-28 14:41:45 INFO  pf_MyAccessPage:89 - My access Gridview is clicked 
+2019-01-28 15:27:54 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 15:27:54 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 15:27:56 INFO  Login_Script:24 - this is login information
+2019-01-28 15:27:56 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 15:27:56 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 15:28:03 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 15:28:03 INFO  pf_DashboardPage:77 - --Dashboard Details--
+2019-01-28 15:28:04 INFO  pf_DashboardPage:82 - Pending/Rejected/Approved/Cancel count: 5/4/8/77
+2019-01-28 15:28:04 INFO  pf_DashboardPage:87 - Pending status page is displayed
+2019-01-28 15:28:07 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 15:28:07 INFO  pf_DashboardPage:103 - Yes button is clicked
+2019-01-28 15:28:11 INFO  pf_DashboardPage:109 - Alert window is closed
+2019-01-28 15:28:15 INFO  pf_DashboardPage:140 - Rejected status page is displayed
+2019-01-28 15:28:22 INFO  pf_DashboardPage:212 - Search Button is clicked
+2019-01-28 15:28:26 INFO  pf_DashboardPage:218 - Clear Button is clicked
+2019-01-28 15:28:29 INFO  pf_DashboardPage:234 - Approved status page is displayed
+2019-01-28 15:28:39 INFO  pf_DashboardPage:303 - Search Button is clicked
+2019-01-28 15:28:43 INFO  pf_DashboardPage:309 - Clear Button is clicked
+2019-01-28 15:28:46 INFO  pf_DashboardPage:326 - Cancel status page is displayed
+2019-01-28 15:28:56 INFO  pf_DashboardPage:392 - Search Button is clicked
+2019-01-28 15:29:00 INFO  pf_DashboardPage:399 - Clear Button is clicked
+2019-01-28 15:29:04 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 15:29:05 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 15:29:06 INFO  Login_Script:24 - this is login information
+2019-01-28 15:29:06 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 15:29:06 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 15:29:14 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 15:29:14 INFO  MyAccess_Script:15 - --My Access--
+2019-01-28 15:29:15 INFO  pf_MyAccessPage:55 - My access page is displayed
+2019-01-28 15:29:20 INFO  pf_MyAccessPage:89 - My access Gridview is clicked 
+2019-01-28 16:49:20 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 16:49:21 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 16:49:22 INFO  Login_Script:24 - this is login information
+2019-01-28 16:49:22 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 16:49:22 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 16:49:30 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 16:49:30 INFO  MyAccess_Script:15 - --My Access--
+2019-01-28 16:49:30 INFO  pf_MyAccessPage:55 - My access page is displayed
+2019-01-28 16:49:36 INFO  pf_MyAccessPage:89 - My access Gridview is clicked 
+2019-01-28 16:49:54 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 16:49:55 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 16:49:56 INFO  Login_Script:24 - this is login information
+2019-01-28 16:49:56 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 16:49:56 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 16:50:03 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 16:50:04 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 16:50:04 INFO  pf_makeaRequestPage:122 - --Make a Request page is displayed--
+2019-01-28 16:50:04 INFO  pf_makeaRequestPage:127 - Request is for Myself
+2019-01-28 16:50:04 INFO  pf_makeaRequestPage:134 - Request Type is Group
+2019-01-28 16:50:07 INFO  pf_makeaRequestPage:147 - Make a request for Myself,Request Type Group is submitted
+2019-01-28 16:50:11 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 16:50:11 INFO  pf_makeaRequestPage:171 - Request is for Myself
+2019-01-28 16:50:11 INFO  pf_makeaRequestPage:178 - Request Type is Resource
+2019-01-28 16:50:22 INFO  pf_makeaRequestPage:235 - Action is to read
+2019-01-28 16:50:22 INFO  pf_makeaRequestPage:247 - Access Type is No time Limit
+2019-01-28 16:50:31 INFO  pf_makeaRequestPage:347 - Make a request for Myself,Request Type Resource is submitted
+2019-01-28 16:50:31 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 16:50:34 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 16:50:35 INFO  pf_makeaRequestPage:373 - Request for Others
+2019-01-28 16:50:35 INFO  pf_makeaRequestPage:386 - Request Type is group
+2019-01-28 16:50:38 INFO  pf_makeaRequestPage:395 - Make a request for others,Request Type Group is submitted
+2019-01-28 16:50:41 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 16:50:41 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 16:50:43 INFO  pf_makeaRequestPage:413 - Request for Others
+2019-01-28 16:50:44 INFO  pf_makeaRequestPage:422 - Request Type is Resource
+2019-01-28 16:50:54 INFO  pf_makeaRequestPage:485 - Access Type is No time limit
+2019-01-28 16:51:01 INFO  pf_makeaRequestPage:517 - Make a request for others,Request Type Resource is submitted
+2019-01-28 16:51:01 INFO  Utility:82 - Actual and expected result matches
+2019-01-28 17:13:11 INFO  Basefunctions:60 - Open the Browser
+2019-01-28 17:13:12 INFO  Basefunctions:68 - Enter the URL
+2019-01-28 17:13:14 INFO  Login_Script:24 - this is login information
+2019-01-28 17:13:14 INFO  Login_Script:29 - Username picked from Excel is sindhu
+2019-01-28 17:13:14 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-01-28 17:13:21 INFO  Login_Script:32 - Logged in successfully
+2019-01-28 17:13:21 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 17:13:21 INFO  pf_makeaRequestPage:122 - --Make a Request page is displayed--
+2019-01-28 17:13:21 INFO  pf_makeaRequestPage:127 - Request is for Myself
+2019-01-28 17:13:22 INFO  pf_makeaRequestPage:134 - Request Type is Group
+2019-01-28 17:13:25 INFO  pf_makeaRequestPage:147 - Make a request for Myself,Request Type Group is submitted
+2019-01-28 17:13:28 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 17:13:34 INFO  MakeARequest_Script:47 - this is login information
+2019-01-28 17:13:40 INFO  MakeARequest_Script:47 - this is login information
